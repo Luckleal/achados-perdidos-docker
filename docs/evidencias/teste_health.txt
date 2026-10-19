@@ -1,0 +1,8 @@
+HTTP/1.1 200 OK
+Server: gunicorn
+Date: Mon, 19 Oct 2026 01:41:25 GMT
+Connection: close
+Content-Type: application/json
+Content-Length: 63
+
+{"banco":"conectado","container":"f10a91644a39","status":"ok"}

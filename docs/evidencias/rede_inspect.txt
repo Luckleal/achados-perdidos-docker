@@ -1,0 +1,64 @@
+[
+    {
+        "Name": "achados-perdidos_rede_interna",
+        "Id": "9e8177c357e2b606c97d12820735bae3afe0690a9b89bf847b3196f7cfde35b6",
+        "Created": "2026-10-17T22:57:52.42893275Z",
+        "Scope": "local",
+        "Driver": "bridge",
+        "EnableIPv4": true,
+        "EnableIPv6": false,
+        "IPAM": {
+            "Driver": "default",
+            "Options": null,
+            "Config": [
+                {
+                    "Subnet": "172.21.0.0/16",
+                    "Gateway": "172.21.0.1"
+                }
+            ]
+        },
+        "Internal": false,
+        "Attachable": false,
+        "Ingress": false,
+        "ConfigFrom": {
+            "Network": ""
+        },
+        "ConfigOnly": false,
+        "Options": {
+            "com.docker.network.enable_ipv4": "true",
+            "com.docker.network.enable_ipv6": "false"
+        },
+        "Labels": {
+            "com.docker.compose.config-hash": "86a318c8db10da1fc0c8c8fa73ba1d6b008ed8c76eb44b4821d23f42e84b1737",
+            "com.docker.compose.network": "rede_interna",
+            "com.docker.compose.project": "achados-perdidos",
+            "com.docker.compose.version": "5.4.0"
+        },
+        "Containers": {
+            "f10a91644a39054d97a3267b162245564b3b209289a9fbb6f7399d4303089136": {
+                "Name": "achados-perdidos-web-1",
+                "EndpointID": "daa3924a96e46673a0e697c2b9e8b3b89a0f46e78451d46999690bbab7b3838d",
+                "MacAddress": "c6:11:5a:60:bf:a6",
+                "IPv4Address": "172.21.0.3/16",
+                "IPv6Address": ""
+            },
+            "f68990eefe25e879fd8a9513f8a3ebec81de73a0b31dd1aaa410552484a0eed5": {
+                "Name": "achados-perdidos-db-1",
+                "EndpointID": "cdb7dadc1fb6de99be73b59d301c90d993a2bf1873180e01c2eddef49015c7e0",
+                "MacAddress": "52:e7:d3:ea:00:c5",
+                "IPv4Address": "172.21.0.2/16",
+                "IPv6Address": ""
+            }
+        },
+        "Status": {
+            "IPAM": {
+                "Subnets": {
+                    "172.21.0.0/16": {
+                        "IPsInUse": 5,
+                        "DynamicIPsAvailable": 65531
+                    }
+                }
+            }
+        }
+    }
+]

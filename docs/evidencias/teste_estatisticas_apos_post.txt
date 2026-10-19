@@ -1,0 +1,8 @@
+HTTP/1.1 200 OK
+Server: gunicorn
+Date: Mon, 19 Oct 2026 01:43:31 GMT
+Connection: close
+Content-Type: application/json
+Content-Length: 41
+
+{"fotos_no_volume":1,"itens_no_banco":4}

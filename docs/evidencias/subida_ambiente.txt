@@ -1,0 +1,62 @@
+ Image achados-perdidos-web Building
+#1 [internal] load local bake definitions
+#1 reading from stdin 524B done
+#1 DONE 0.0s
+
+#2 [internal] load build definition from Dockerfile
+#2 transferring dockerfile: 352B done
+#2 DONE 0.0s
+
+#3 [internal] load metadata for docker.io/library/python:3.12-slim
+#3 ...
+
+#4 [auth] library/python:pull token for registry-1.docker.io
+#4 DONE 0.0s
+
+#3 [internal] load metadata for docker.io/library/python:3.12-slim
+#3 DONE 2.3s
+
+#5 [internal] load .dockerignore
+#5 transferring context: 77B done
+#5 DONE 0.0s
+
+#6 [1/6] FROM docker.io/library/python:3.12-slim@sha256:a6e34c598f2467ed0e9a8d349809fcd8b5c603269512df273a0bb1784edc11b1
+#6 resolve docker.io/library/python:3.12-slim@sha256:a6e34c598f2467ed0e9a8d349809fcd8b5c603269512df273a0bb1784edc11b1 done
+#6 DONE 0.0s
+
+#7 [internal] load build context
+#7 transferring context: 63B done
+#7 DONE 0.0s
+
+#8 [4/6] RUN pip install --no-cache-dir -r requirements.txt
+#8 CACHED
+
+#9 [2/6] WORKDIR /app
+#9 CACHED
+
+#10 [3/6] COPY requirements.txt .
+#10 CACHED
+
+#11 [5/6] COPY app.py .
+#11 CACHED
+
+#12 [6/6] RUN useradd -m appuser &&     mkdir -p /app/uploads &&     chown -R appuser:appuser /app/uploads
+#12 CACHED
+
+#13 exporting to image
+#13 exporting layers done
+#13 exporting manifest sha256:b4e246f86c284260dc6f1586aca1290c81767caa4c42561ace110c1699579275 done
+#13 exporting config sha256:82a1be1a245b7e8a8773bb898fef2f33743368f5664f40eddd9daad0fb946e9f done
+#13 exporting attestation manifest sha256:0cee4123374c24a6794956a0a641ba8d819f17ace19afd51625f9f9cdd99610e done
+#13 exporting manifest list sha256:076483d3295da4d49d1b73dc3c7a0a123e5be8190eaebb658cb780dd2f481180 done
+#13 naming to docker.io/library/achados-perdidos-web:latest done
+#13 unpacking to docker.io/library/achados-perdidos-web:latest done
+#13 DONE 0.0s
+
+#14 resolving provenance for metadata file
+#14 DONE 0.0s
+ Image achados-perdidos-web Built
+ Container achados-perdidos-db-1 Running
+ Container achados-perdidos-web-1 Running
+ Container achados-perdidos-db-1 Waiting
+ Container achados-perdidos-db-1 Healthy

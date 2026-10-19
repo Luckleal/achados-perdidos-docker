@@ -1,0 +1,12 @@
+DRIVER    VOLUME NAME
+local     824679165fd6cc7d7f68ccae5208c0e36709be8a848b674f2ff436256d1c1f2f
+local     achados-perdidos_dados_banco
+local     achados-perdidos_fotos
+local     atividade-django_dados_postgres
+local     atividade-django_volume_uploads
+local     d92489e35067a42688af59c72f6685ffdf0e169dead9d731a35b100e91396ae2
+local     daaa567382f2eb4b17c10ea24cd6bdec4d9a082b9781b8af40c51810e392bd7b
+local     loja-docker_dados-banco
+local     loja-docker_dados-objetos
+local     teste_volume
+local     teste_volumes

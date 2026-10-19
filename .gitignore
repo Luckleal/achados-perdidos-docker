@@ -1,0 +1,30 @@
+
+# Credenciais
+.env
+
+# Arquivos temporarios do Python
+__pycache__/
+*.pyc
+.venv/
+
+# Imagens usadas apenas nos testes
+/*.jpg
+/*.png
+
+# Metadados do Windows
+*:Zone.Identifier
+
+# Arquivos compactados
+*.zip
+
+
+# Credenciais locais
+/.env
+
+# Arquivos temporários do Python
+__pycache__/
+*.pyc
+.venv/
+
+# Cópias antigas da documentação
+*.antes-bonus

@@ -1,0 +1,6 @@
+Estatisticas antes da remocao dos volumes:
+{"fotos_no_volume":4,"itens_no_banco":7}
+
+Fotos recuperadas apos recriacao dos containers:
+Oculos: HTTP 200
+Carteira: HTTP 200

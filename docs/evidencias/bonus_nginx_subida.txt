@@ -1,0 +1,69 @@
+ Image achados-perdidos-web Building
+#1 [internal] load local bake definitions
+#1 reading from stdin 524B done
+#1 DONE 0.0s
+
+#2 [internal] load build definition from Dockerfile
+#2 transferring dockerfile: 352B done
+#2 DONE 0.0s
+
+#3 [internal] load metadata for docker.io/library/python:3.12-slim
+#3 ...
+
+#4 [auth] library/python:pull token for registry-1.docker.io
+#4 DONE 0.0s
+
+#3 [internal] load metadata for docker.io/library/python:3.12-slim
+#3 DONE 2.4s
+
+#5 [internal] load .dockerignore
+#5 transferring context: 77B done
+#5 DONE 0.0s
+
+#6 [1/6] FROM docker.io/library/python:3.12-slim@sha256:a6e34c598f2467ed0e9a8d349809fcd8b5c603269512df273a0bb1784edc11b1
+#6 resolve docker.io/library/python:3.12-slim@sha256:a6e34c598f2467ed0e9a8d349809fcd8b5c603269512df273a0bb1784edc11b1 done
+#6 DONE 0.0s
+
+#7 [internal] load build context
+#7 transferring context: 63B done
+#7 DONE 0.0s
+
+#8 [2/6] WORKDIR /app
+#8 CACHED
+
+#9 [4/6] RUN pip install --no-cache-dir -r requirements.txt
+#9 CACHED
+
+#10 [5/6] COPY app.py .
+#10 CACHED
+
+#11 [3/6] COPY requirements.txt .
+#11 CACHED
+
+#12 [6/6] RUN useradd -m appuser &&     mkdir -p /app/uploads &&     chown -R appuser:appuser /app/uploads
+#12 CACHED
+
+#13 exporting to image
+#13 exporting layers done
+#13 exporting manifest sha256:b4e246f86c284260dc6f1586aca1290c81767caa4c42561ace110c1699579275 done
+#13 exporting config sha256:82a1be1a245b7e8a8773bb898fef2f33743368f5664f40eddd9daad0fb946e9f done
+#13 exporting attestation manifest sha256:84d593a8faf6c15d75ea8672afdabe6ac93a06c09e04252ae7c7e5b146208262 done
+#13 exporting manifest list sha256:8ac75be8b51a4d36d5e1066cc49e625dc9433df512a85988931dc90e6b7cd160 done
+#13 naming to docker.io/library/achados-perdidos-web:latest done
+#13 unpacking to docker.io/library/achados-perdidos-web:latest done
+#13 DONE 0.0s
+
+#14 resolving provenance for metadata file
+#14 DONE 0.0s
+ Image achados-perdidos-web Built
+ Container achados-perdidos-db-1 Running
+ Container achados-perdidos-web-1 Recreate
+ Container achados-perdidos-web-1 Recreated
+ Container achados-perdidos-nginx-1 Creating
+ Container achados-perdidos-nginx-1 Created
+ Container achados-perdidos-db-1 Waiting
+ Container achados-perdidos-db-1 Healthy
+ Container achados-perdidos-web-1 Starting
+ Container achados-perdidos-web-1 Started
+ Container achados-perdidos-nginx-1 Starting
+ Container achados-perdidos-nginx-1 Started

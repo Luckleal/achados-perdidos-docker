@@ -1,0 +1,160 @@
+ Image adminer:latest Pulling
+ dbcb6a80c1f6 Pulling fs layer 0B
+ 4632e7d2f0f5 Pulling fs layer 0B
+ de67e1069755 Pulling fs layer 0B
+ 667617fe9bbf Pulling fs layer 0B
+ 2a5a3e2bbe84 Pulling fs layer 0B
+ 25acc1dfd0bf Pulling fs layer 0B
+ 5ebf0ecf7551 Pulling fs layer 0B
+ 4f4fb700ef54 Pulling fs layer 0B
+ ce39ffdcaed9 Pulling fs layer 0B
+ fa572f072d85 Pulling fs layer 0B
+ 72cf678f86f9 Pulling fs layer 0B
+ a224c7120d7e Pulling fs layer 0B
+ 82617a20cbd0 Pulling fs layer 0B
+ 973adf3097e9 Pulling fs layer 0B
+ 28fc39bda447 Pulling fs layer 0B
+ 4a92ee9be23c Pulling fs layer 0B
+ 4f4fb700ef54 Already exists 0B
+ dbcb6a80c1f6 Downloading 1.049MB
+ dbcb6a80c1f6 Downloading 3.146MB
+ dbcb6a80c1f6 Download complete 0B
+ dbcb6a80c1f6 Extracting 1B
+ 2a5a3e2bbe84 Downloading 1.049MB
+ dbcb6a80c1f6 Extracting 1B
+ 4632e7d2f0f5 Download complete 0B
+ 2a5a3e2bbe84 Downloading 3.146MB
+ dbcb6a80c1f6 Extracting 1B
+ 2a5a3e2bbe84 Downloading 4.194MB
+ dbcb6a80c1f6 Extracting 1B
+ 2a5a3e2bbe84 Downloading 5.243MB
+ dbcb6a80c1f6 Extracting 1B
+ 2a5a3e2bbe84 Downloading 7.34MB
+ dbcb6a80c1f6 Extracting 1B
+ 2a5a3e2bbe84 Downloading 9.437MB
+ dbcb6a80c1f6 Extracting 1B
+ 2a5a3e2bbe84 Downloading 10.49MB
+ dbcb6a80c1f6 Extracting 1B
+ 2a5a3e2bbe84 Downloading 12.58MB
+ dbcb6a80c1f6 Extracting 1B
+ de67e1069755 Download complete 0B
+ 667617fe9bbf Download complete 0B
+ 2a5a3e2bbe84 Download complete 0B
+ dbcb6a80c1f6 Extracting 1B
+ dbcb6a80c1f6 Extracting 2B
+ dbcb6a80c1f6 Extracting 2B
+ dbcb6a80c1f6 Extracting 2B
+ dbcb6a80c1f6 Extracting 2B
+ dbcb6a80c1f6 Extracting 2B
+ dbcb6a80c1f6 Extracting 2B
+ 25acc1dfd0bf Download complete 0B
+ dbcb6a80c1f6 Extracting 2B
+ 5ebf0ecf7551 Downloading 1.049MB
+ dbcb6a80c1f6 Extracting 2B
+ 5ebf0ecf7551 Downloading 2.097MB
+ dbcb6a80c1f6 Extracting 2B
+ 5ebf0ecf7551 Downloading 4.194MB
+ dbcb6a80c1f6 Extracting 2B
+ 5ebf0ecf7551 Downloading 6.291MB
+ dbcb6a80c1f6 Extracting 3B
+ 5ebf0ecf7551 Downloading 7.34MB
+ dbcb6a80c1f6 Extracting 3B
+ 5ebf0ecf7551 Downloading 9.437MB
+ dbcb6a80c1f6 Extracting 3B
+ 5ebf0ecf7551 Downloading 10.49MB
+ dbcb6a80c1f6 Extracting 3B
+ 5ebf0ecf7551 Downloading 12.58MB
+ dbcb6a80c1f6 Extracting 3B
+ 5ebf0ecf7551 Downloading 13.63MB
+ dbcb6a80c1f6 Extracting 3B
+ 5ebf0ecf7551 Downloading 14.68MB
+ ce39ffdcaed9 Downloading 1.049MB
+ fa572f072d85 Download complete 0B
+ dbcb6a80c1f6 Extracting 3B
+ 5ebf0ecf7551 Downloading 16.78MB
+ ce39ffdcaed9 Downloading 2.097MB
+ dbcb6a80c1f6 Extracting 3B
+ 5ebf0ecf7551 Downloading 17.83MB
+ ce39ffdcaed9 Download complete 0B
+ dbcb6a80c1f6 Extracting 3B
+ 5ebf0ecf7551 Downloading 18.87MB
+ dbcb6a80c1f6 Extracting 3B
+ 5ebf0ecf7551 Download complete 0B
+ dbcb6a80c1f6 Extracting 4B
+ dbcb6a80c1f6 Extracting 4B
+ dbcb6a80c1f6 Extracting 4B
+ dbcb6a80c1f6 Extracting 4B
+ 72cf678f86f9 Download complete 0B
+ dbcb6a80c1f6 Extracting 4B
+ dbcb6a80c1f6 Extracting 4B
+ 82617a20cbd0 Download complete 0B
+ dbcb6a80c1f6 Extracting 4B
+ dbcb6a80c1f6 Extracting 4B
+ dbcb6a80c1f6 Extracting 4B
+ dbcb6a80c1f6 Extracting 4B
+ 973adf3097e9 Download complete 0B
+ dbcb6a80c1f6 Extracting 5B
+ dbcb6a80c1f6 Extracting 5B
+ a224c7120d7e Download complete 0B
+ dbcb6a80c1f6 Extracting 5B
+ dbcb6a80c1f6 Extracting 5B
+ dbcb6a80c1f6 Extracting 5B
+ dbcb6a80c1f6 Extracting 5B
+ dbcb6a80c1f6 Extracting 5B
+ 4a92ee9be23c Download complete 0B
+ 28fc39bda447 Download complete 0B
+ dbcb6a80c1f6 Extracting 5B
+ dbcb6a80c1f6 Extracting 5B
+ dbcb6a80c1f6 Extracting 5B
+ dbcb6a80c1f6 Extracting 6B
+ dbcb6a80c1f6 Extracting 6B
+ dbcb6a80c1f6 Extracting 6B
+ dbcb6a80c1f6 Extracting 6B
+ dbcb6a80c1f6 Extracting 6B
+ dbcb6a80c1f6 Extracting 6B
+ dbcb6a80c1f6 Extracting 6B
+ dbcb6a80c1f6 Extracting 6B
+ dbcb6a80c1f6 Extracting 6B
+ dbcb6a80c1f6 Extracting 6B
+ dbcb6a80c1f6 Extracting 6B
+ dbcb6a80c1f6 Extracting 7B
+ dbcb6a80c1f6 Extracting 7B
+ dbcb6a80c1f6 Extracting 7B
+ dbcb6a80c1f6 Extracting 7B
+ dbcb6a80c1f6 Extracting 7B
+ dbcb6a80c1f6 Extracting 7B
+ dbcb6a80c1f6 Extracting 7B
+ dbcb6a80c1f6 Extracting 7B
+ dbcb6a80c1f6 Extracting 7B
+ dbcb6a80c1f6 Extracting 7B
+ dbcb6a80c1f6 Pull complete 0B
+ de67e1069755 Pull complete 0B
+ 667617fe9bbf Pull complete 0B
+ 2a5a3e2bbe84 Pull complete 0B
+ 25acc1dfd0bf Pull complete 0B
+ 5ebf0ecf7551 Extracting 1B
+ 5ebf0ecf7551 Extracting 1B
+ 5ebf0ecf7551 Pull complete 0B
+ 973adf3097e9 Pull complete 0B
+ a224c7120d7e Pull complete 0B
+ 4f4fb700ef54 Pull complete 0B
+ 4632e7d2f0f5 Pull complete 0B
+ fa572f072d85 Pull complete 0B
+ ce39ffdcaed9 Pull complete 0B
+ 72cf678f86f9 Pull complete 0B
+ 82617a20cbd0 Pull complete 0B
+ 4a92ee9be23c Pull complete 0B
+ 28fc39bda447 Pull complete 0B
+ 03318fe33ed5 Download complete 0B
+ Image adminer:latest Pulled
+ Container achados-perdidos-web-1 Running
+ Container achados-perdidos-nginx-1 Running
+ Container achados-perdidos-db-1 Running
+ Container achados-perdidos-adminer-1 Creating
+ Container achados-perdidos-adminer-1 Created
+ Container achados-perdidos-db-1 Waiting
+ Container achados-perdidos-db-1 Waiting
+ Container achados-perdidos-db-1 Healthy
+ Container achados-perdidos-adminer-1 Starting
+ Container achados-perdidos-db-1 Healthy
+ Container achados-perdidos-adminer-1 Started

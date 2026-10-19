@@ -1,0 +1,8 @@
+HTTP/1.1 200 OK
+Server: gunicorn
+Date: Mon, 19 Oct 2026 01:41:57 GMT
+Connection: close
+Content-Type: application/json
+Content-Length: 120
+
+[{"criado_em":"2026-10-17T22:57:53.432305","descricao":"Garrafa termica azul","foto":null,"id":1,"local":"Biblioteca"}]
